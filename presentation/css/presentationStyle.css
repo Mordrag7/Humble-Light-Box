@@ -102,7 +102,6 @@ br {
 .content header .github:hover {
     background-color: deeppink;
     color: black;
-    box-sizing: inside-box;
     border: 3px solid deeppink;
     box-shadow: 0 0 3px 1px black;
 }
