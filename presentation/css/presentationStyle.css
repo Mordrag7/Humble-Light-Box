@@ -247,7 +247,7 @@ footer span {
 }
 
 @media (max-device-width: 400px) {
-    .content header .github {
-        margin: 45px auto;
+    .content main .demo {
+        margin-top: 60px;
     }
 }
